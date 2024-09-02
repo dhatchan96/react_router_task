@@ -1,0 +1,38 @@
+nav {
+  display: flex;
+  justify-content: space-around;
+  background-color: #f8f8f8;
+  padding: 10px;
+}
+
+nav a {
+  text-decoration: none;
+  padding: 10px;
+  color: #000;
+}
+
+nav a.active {
+  border-bottom: 2px solid green;
+}
+
+.courses {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20px;
+}
+
+.course-card {
+  text-align: center;
+}
+
+.course-card img {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+.course-card p {
+  margin-top: 10px;
+  font-size: 14px;
+}
