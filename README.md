@@ -1,8 +1,15 @@
-# React + Vite
+# React Router DOM Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Task Description
 
-Currently, two official plugins are available:
+The objective of this task is to create a web page with routes using `react-router-dom`. The design of the page should be based on the [GUVI Blog](https://www.guvi.in/blog/) page.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Requirements
+
+- Create a navigation menu with the following categories:
+  - All
+  - Full Stack Development
+  - Data Science
+  - Cyber Security
+  - Career
+- Each category should display content similar to the screenshot provided.
